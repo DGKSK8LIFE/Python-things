@@ -6,7 +6,7 @@ Id = (firstname + " " + lastname)
 a = len(Id)
 
 if age >= 11: 
-  print(firstname + " " + lastname)
+  print(Id)
   print(age)
   if a >= 15:
     print("Your id will be printed: " + lastname + " " + firstname[0])
