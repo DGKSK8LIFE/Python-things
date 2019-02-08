@@ -10,5 +10,5 @@ print("The sum of all the multiples is " + str(sum))
                 
         
 # The sum of 0 numbers is 0
-# The product of 0 numbers is 1 
+# The product of 0 numbers is 1  
 
