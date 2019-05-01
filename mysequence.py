@@ -1,4 +1,4 @@
-def fib():
+def mysequence():
     x = 0
     while x > -1:
         x += 1
@@ -8,4 +8,4 @@ def fib():
         else:
             print(y)
 
-fib()
+mysequence()
